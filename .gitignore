@@ -1,0 +1,3 @@
+# .gitignore
+data/raw/*.csv
+data/processed/*.csv
